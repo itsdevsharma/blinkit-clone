@@ -1,4 +1,4 @@
-﻿# Blinkit Clone (Split Frontend/Backend)
+﻿# Blinkit Clone (Frontend/Backend)
 
 A simplified Blinkit-like application with a React frontend and an Express backend.
 
